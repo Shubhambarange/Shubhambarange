@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Barange</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
-<img align="right" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:828/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="coding" width="100%"  src="https://miro.medium.com/v2/resize:fit:828/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambarange&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambarange" /> </p>
 
