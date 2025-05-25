@@ -61,7 +61,7 @@
 |--------|-------------|------------|------|
 | **Study Notion** | Full-stack EdTech app for course management | React, Node.js, MongoDB | [GitHub](https://github.com/Shubhambarange/StudyNotion) |
 | **Portfolio Website** | Personal portfolio built from scratch | HTML, CSS, JavaScript | [Live](#) |
-| **BlogApp-using-express.js** | Simple to-do tracker with CRUD ops | React, LocalStorage | [GitHub](https://github.com/Shubhambarange/BlogApp-using-express.js) |
+| **BlogApp-using-express.js** | Simple Blog App with CRUD ops | React, Express Js | [GitHub](https://github.com/Shubhambarange/BlogApp-using-express.js) |
 
 ---
 
