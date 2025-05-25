@@ -60,7 +60,7 @@
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | **Study Notion** | Full-stack EdTech app for course management | React, Node.js, MongoDB | [GitHub](https://github.com/Shubhambarange/StudyNotion) |
-| **Portfolio Website** | Personal portfolio built from scratch | HTML, CSS, JavaScript | [Live](#) |
+| **WeatherApp** | Personal portfolio built from scratch | HTML, CSS, JavaScript | [GitHub](https://github.com/Shubhambarange/WeatherApp) |
 | **BlogApp-using-express.js** | Simple Blog App with CRUD ops | React, Express Js | [GitHub](https://github.com/Shubhambarange/BlogApp-using-express.js) |
 
 ---
