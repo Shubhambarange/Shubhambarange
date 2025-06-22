@@ -59,8 +59,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Study Notion** | Full-stack EdTech app for course management | React, Node.js, MongoDB | [GitHub](https://github.com/Shubhambarange/StudyNotion) |
-| 🌦️ **WeatherApp** | A weather forecast application using OpenWeather API | HTML, CSS, JavaScript | [🔗 GitHub](https://github.com/Shubhambarange/WeatherApp) |
+| **WeatherApp** | A weather forecast application using OpenWeather API | HTML, CSS, JavaScript | [🔗 GitHub](https://github.com/Shubhambarange/WeatherApp) |
 | **BlogApp-using-express.js** | Simple Blog App with CRUD ops | React, Express Js | [GitHub](https://github.com/Shubhambarange/BlogApp-using-express.js) |
 
 ---
@@ -82,7 +81,4 @@
 - 🔐 Secure Authentication & Authorization  
 
 ---
-
-> ⭐ *Don’t forget to star repositories you like or find useful!*  
-> 📌 *Open to collaboration and freelance Java Spring Boot projects.*
 
